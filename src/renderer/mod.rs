@@ -1,4 +1,4 @@
-pub mod backend;
+pub mod gl;
 
 #[derive(Debug)]
 pub struct ShaderStageFlags {}
